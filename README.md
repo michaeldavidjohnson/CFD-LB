@@ -1,5 +1,7 @@
 # CFD-LB Notebooks working through [Dr. Lorena Barba's](https://github.com/labarba) 12 steps to Navier-Stokes.
 
+[Link to lecture series](https://www.youtube.com/playlist?list=PL30F4C5ABCE62CB61)
+
 Review:
 Overall, I thought the code examples were very informative and the brick-by-brick nature of the examples
 was great. As someone who dabbles in numerical PDE approximation, the Navier-Stokes equations I tended 
